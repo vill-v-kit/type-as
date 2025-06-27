@@ -1,4 +1,4 @@
-# @vill-v/path-prop
+# @vill-v/type-as
 
 neta了崩坏3 往世乐土的英杰维尔薇
 
