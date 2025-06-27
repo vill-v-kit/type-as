@@ -4,11 +4,11 @@ neta了崩坏3 往世乐土的英杰维尔薇
 
 <!-- automd:badges color="orange" license licenseBranch  bundlephobia packagephobia -->
 
-[![npm version](https://img.shields.io/npm/v/@vill-v/path-prop?color=orange)](https://npmjs.com/package/@vill-v/path-prop)
-[![npm downloads](https://img.shields.io/npm/dm/@vill-v/path-prop?color=orange)](https://npm.chart.dev/@vill-v/path-prop)
-[![bundle size](https://img.shields.io/bundlephobia/minzip/@vill-v/path-prop?color=orange)](https://bundlephobia.com/package/@vill-v/path-prop)
-[![install size](https://badgen.net/packagephobia/install/@vill-v/path-prop?color=orange)](https://packagephobia.com/result?p=@vill-v/path-prop)
-[![license](https://img.shields.io/github/license/vill-v-kit/path-prop?color=orange)](https://github.com/vill-v-kit/path-prop/blob/true/LICENSE)
+[![npm version](https://img.shields.io/npm/v/@vill-v/type-as?color=orange)](https://npmjs.com/package/@vill-v/type-as)
+[![npm downloads](https://img.shields.io/npm/dm/@vill-v/type-as?color=orange)](https://npm.chart.dev/@vill-v/type-as)
+[![bundle size](https://img.shields.io/bundlephobia/minzip/@vill-v/type-as?color=orange)](https://bundlephobia.com/package/@vill-v/type-as)
+[![install size](https://badgen.net/packagephobia/install/@vill-v/type-as?color=orange)](https://packagephobia.com/result?p=@vill-v/type-as)
+[![license](https://img.shields.io/github/license/vill-v-kit/type-as?color=orange)](https://github.com/vill-v-kit/type-as/blob/true/LICENSE)
 
 <!-- /automd -->
 
@@ -19,22 +19,22 @@ neta了崩坏3 往世乐土的英杰维尔薇
 
 ```sh
 # ✨ Auto-detect
-npx nypm install @vill-v/path-prop
+npx nypm install @vill-v/type-as
 
 # npm
-npm install @vill-v/path-prop
+npm install @vill-v/type-as
 
 # yarn
-yarn add @vill-v/path-prop
+yarn add @vill-v/type-as
 
 # pnpm
-pnpm install @vill-v/path-prop
+pnpm install @vill-v/type-as
 
 # bun
-bun install @vill-v/path-prop
+bun install @vill-v/type-as
 
 # deno
-deno install @vill-v/path-prop
+deno install @vill-v/type-as
 ```
 
 <!-- /automd -->
@@ -71,11 +71,11 @@ hasByPath(obj3, 'test[0].test1')
 
 <!-- automd:contributors author="Colourlessglow" license="MIT" -->
 
-Published under the [MIT](https://github.com/vill-v-kit/path-prop/blob/main/LICENSE) license.
-Made by [@Colourlessglow](https://github.com/Colourlessglow) and [community](https://github.com/vill-v-kit/path-prop/graphs/contributors) 💛
+Published under the [MIT](https://github.com/vill-v-kit/type-as/blob/main/LICENSE) license.
+Made by [@Colourlessglow](https://github.com/Colourlessglow) and [community](https://github.com/vill-v-kit/type-as/graphs/contributors) 💛
 <br><br>
-<a href="https://github.com/vill-v-kit/path-prop/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=vill-v-kit/path-prop" />
+<a href="https://github.com/vill-v-kit/type-as/graphs/contributors">
+<img src="https://contrib.rocks/image?repo=vill-v-kit/type-as" />
 </a>
 
 <!-- /automd -->
