@@ -1,0 +1,45 @@
+{
+  "name": "@vill-v/type-as",
+  "version": "1.3.3",
+  "description": "开发中常用的类型判断",
+  "packageManager": "pnpm@10.12.4",
+  "files": [
+    "dist"
+  ],
+  "license": "MIT",
+  "type": "module",
+  "author": {
+    "name": "whitekite",
+    "email": "1075790909@qq.com"
+  },
+  "sideEffects": false,
+  "homepage": "https://vill-v-kit.github.io/vill-v/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vill-v-kit/type-as.git"
+  },
+  "main": "./dist/index.js",
+  "module": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": "./dist/index.js",
+    "./package.json": "./package.json"
+  },
+  "scripts": {
+    "build": "pnpm dlx automd && tsdown",
+    "release": "vbumpp -r && pnpm build"
+  },
+  "devDependencies": {
+    "@types/node": "catalog:dev",
+    "@vill-v/bumpp-github": "catalog:dev",
+    "@vill-v/eslint-config": "catalog:dev",
+    "@vill-v/prettier-config": "catalog:dev",
+    "@vill-v/tsconfig": "catalog:dev",
+    "eslint": "catalog:dev",
+    "prettier": "catalog:dev",
+    "publint": "catalog:dev",
+    "tsdown": "catalog:dev",
+    "typescript": "catalog:dev",
+    "unplugin-unused": "catalog:dev"
+  }
+}
